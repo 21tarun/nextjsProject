@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Project
+
+In this Next.js basesd project, i used functionality like verify email, reset password, login, signup ,middlewares ,authentication ,handle server side api's for creating user, login user, logout user, verify email, reset password and handle path parmas with client side components and got suitable data.
 
 ## Getting Started
 
